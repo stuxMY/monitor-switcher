@@ -36,9 +36,9 @@ sudo dnf install xrandr
 
 # Example Output 
 
-- Available Monitors:
-- 1: HDMI-1
-- 2: eDP-1
-- 3: DP-1
-- Select the monitor number to set as primary: 1
-- Set HDMI-1 as the primary display.
+Available Monitors:
+ 1: HDMI-1
+ 2: eDP-1
+ 3: DP-1
+ Select the monitor number to set as primary: 1
+ Set HDMI-1 as the primary display.
