@@ -14,11 +14,11 @@ A simple Python 3 script that allows you to select which monitor should be the p
 ## Installation
 
 1. Clone this repository to your local machine:
-   ```bash
+
+  ```python
    git clone https://github.com/stuxMY/monitor-switcher.git
    cd monitor-switcher
 
-  ```python
 python3 monitor.py or chmod +x monitor.py
   mv monitor.py /usr/bin/monitor
 
