@@ -19,9 +19,11 @@ A simple Python 3 script that allows you to select which monitor should be the p
    cd monitor-switcher
 
   ```python
-  ```python3 monitor.py or chmod +x monitor.py
-  mv monitor.py /usr/bin/monitor```
-   
+python3 monitor.py or chmod +x monitor.py
+  mv monitor.py /usr/bin/monitor
+
+
+
 # For Ubuntu/Debian-based systems
 sudo apt-get install x11-xserver-utils
 
