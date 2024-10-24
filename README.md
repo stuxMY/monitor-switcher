@@ -17,6 +17,9 @@ A simple Python 3 script that allows you to select which monitor should be the p
    ```bash
    git clone https://github.com/stuxMY/monitor-switcher.git
    cd monitor-switcher
+  python3 monitor.py or chmod +x monitor.py
+  mv monitor.py /usr/bin/monitor
+   
 # For Ubuntu/Debian-based systems
 sudo apt-get install x11-xserver-utils
 
@@ -26,8 +29,6 @@ sudo pacman -S xorg-xrandr
 # For Fedora-based systems
 sudo dnf install xrandr
 
-python3 monitor.py or chmod +x monitor.py
-mv monitor.py /usr/bin/monitor
 
 # Example Output 
 
