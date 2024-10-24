@@ -29,7 +29,7 @@ sudo dnf install xrandr
 python3 monitor.py or chmod +x monitor.py
 mv monitor.py /usr/bin/monitor
 
-##Example Output 
+# Example Output 
 
 Available Monitors:
 1: HDMI-1
